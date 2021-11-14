@@ -3,6 +3,7 @@ body {
 	color: white;
 	font-size: 20px;
 	font-family: Verdana, sans-serif;
+	text-align: center;
 }
 a:link {
   color: red;
